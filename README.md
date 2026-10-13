@@ -8,7 +8,7 @@ performance.
 
 ## Dashboard Preview
 
-![EDS Executive Summary & Profitability Dashboard](Dashboard.png)
+![ Executive Summary & Profitability Dashboard](Dashboardn.png)
 
 > The image above is displayed from `Dashboard.png`. Keep the image in
 > the same folder as this README so it renders correctly on GitHub or in
